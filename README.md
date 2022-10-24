@@ -50,7 +50,9 @@ En el caso de que se quiera tener control también de la parte visual del stream
 5. Configurar con tus dispositivos de entrada.
 
 Para conectarse a OBS Studio via NDI es necesario ir a la pestaña `Video` en el componente `TDTwitch`.
+
 **In** `Active`: ON.
+
 `Source Name`: Elegir tu dispositivo de entrada configurado (captura de pantalla, webcam, etc).
 
 **Out** `Active`: ON.
@@ -126,7 +128,9 @@ In case you want to have control also of the visual part of the stream, it's pos
 5. Configure with your input devices.
 
 To connect to OBS Studio via NDI you need to go to the `Video` tab in the `TDTwitch` component.
+
 **In** `Active`: ON.
+
 `Source Name`: Choose your configured input device (screen capture, webcam, etc).
 
 **Out** `Active`: ON.
